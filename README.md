@@ -4,13 +4,24 @@
 
 ## 🛠️ Skills & Expertise
 - 💻 **Programming Languages**: JavaScript, TypeScript  
-- 🌐 **Frontend**: HTML, CSS, React, Next.js
-- ⚙️ **Backend**: Node.js, Express.js, NestJS, GraphQL  
+- 🌐 **Frontend**: HTML, CSS, React  
+- ⚙️ **Backend**: Node.js, Express.js, Nest.js, GraphQL  
 - 🗄️ **Databases**: PostgreSQL, MongoDB  
 - ☁️ **DevOps**: Docker, Kubernetes, CI/CD, AWS  
 - 📦 **Tools**: Git  
 
 📫 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/ehsan-shekari/)
+
+---
+
+## 🎓 Teaching
+I enjoy sharing my knowledge of programming and web development through various platforms. Most of my channels are in Farsi, except for **Coding with Ehsan**, which is in English and recently started:
+
+- 🎥 **Aparat**: [Code Tutor](https://www.aparat.com/code_tutor) (Farsi)  
+- 📺 **YouTube (Code Tutor)**: [Code Tutor](https://www.youtube.com/@CodeTutorIR) (Farsi)  
+- 📺 **YouTube (Coding with Ehsan)**: [Coding with Ehsan](https://www.youtube.com/@CodingWithEhsan) (English, recently started)  
+- 🎓 **Danup**: [Ehsan Shekari Academy](https://danup.ir/academy/e-shekari/) (Farsi)  
+- 📚 **Udemy**: [Ehsan Shekari](https://www.udemy.com/user/ehsan-shekari-2/) (Farsi)  
 
 ---
 
