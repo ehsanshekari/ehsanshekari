@@ -28,9 +28,9 @@ I enjoy sharing my knowledge of programming and web development through various 
 ## 🎵 Music & Retro Gaming Enthusiast
 When I'm not coding, I dive into the nostalgic world of retro games and share my love for music across my channels. Check them out:
 
+- 📸 **Instagram**: [Forgotten Unlocked](https://www.instagram.com/forgotten.unlocked) (Music)
 - 🎥 **TikTok**: [Forgotten Unlocked](https://www.tiktok.com/@forgotten.unlocked) (Music)  
-- 📺 **YouTube**: [Forgotten Unlocked](https://www.youtube.com/@ForgottenUnlocked) (Music)   
-- 📸 **Instagram**: [Forgotten Unlocked](https://www.instagram.com/forgotten.unlocked) (Retro games)
+- 📺 **YouTube**: [Forgotten Unlocked](https://www.youtube.com/@ForgottenUnlocked) (Retro games)   
 - 🎮 **Rumble**: [Forgotten Unlocked](https://rumble.com/c/c-6778939) (Retro games)  
 - 🔗 **Telegram**: [Forgotten Unlocked](https://t.me/forgotten_unlocked) (Retro games) 
 
