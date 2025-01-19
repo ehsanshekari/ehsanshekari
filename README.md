@@ -23,7 +23,3 @@ When I'm not coding, I dive into the nostalgic world of retro games and share my
 - 🎮 **Rumble**: [Forgotten Unlocked](https://rumble.com/c/c-6778939)  
 - 🔗 **Telegram**: [Forgotten Unlocked](https://t.me/forgotten_unlocked)  
 
----
-
-## 📊 GitHub Stats
-![Ehsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
