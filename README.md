@@ -4,8 +4,8 @@
 
 ## 🛠️ Skills & Expertise
 - 💻 **Programming Languages**: JavaScript, TypeScript  
-- 🌐 **Frontend**: HTML, CSS, React  
-- ⚙️ **Backend**: Node.js, Express.js, Nest.js, GraphQL  
+- 🌐 **Frontend**: HTML, CSS, React, Next.js
+- ⚙️ **Backend**: Node.js, Express.js, NestJS, GraphQL  
 - 🗄️ **Databases**: PostgreSQL, MongoDB  
 - ☁️ **DevOps**: Docker, Kubernetes, CI/CD, AWS  
 - 📦 **Tools**: Git  
