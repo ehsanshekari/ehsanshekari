@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Ehsan
 
 🎯 **Senior Software Developer** with over 10 years of experience in web development, specializing in **JavaScript** and modern frameworks.
 
