@@ -31,7 +31,7 @@
 ---
 
 ## 🎓 Teaching
-I enjoy sharing my knowledge of programming and web development through various platforms. Most of my channels are in Farsi, except for **Coding with Ehsan**, which is in English and recently started:
+I enjoy sharing my knowledge of programming and web development through various platforms. Most of my channels are in Farsi, except for **Code with Ehsan**, which is in English and recently started:
 
 - 🎥 **Aparat**: [Code With Ehsan](https://www.aparat.com/ehsanshekari) (Farsi)  
 - 📺 **YouTube (Code Tutor)**: [Code With Ehsan](https://www.youtube.com/@EhsanShekari-ir) (Farsi)  
