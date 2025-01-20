@@ -36,7 +36,7 @@ I enjoy sharing my knowledge of programming and web development through various 
 - 🎥 **Aparat**: [Code With Ehsan](https://www.aparat.com/ehsanshekari) (Farsi)  
 - 📺 **YouTube (Code Tutor)**: [Code With Ehsan](https://www.youtube.com/@EhsanShekari-ir) (Farsi)  
 - 🎓 **Danup**: [Ehsan Shekari Academy](https://danup.ir/academy/e-shekari/) (Farsi)  
-- 📚 **Udemy**: [Ehsan Shekari](https://www.udemy.com/user/ehsan-shekari-2/) (Farsi)  
+- 📚 **Udemy**: [Ehsan Shekari](https://www.udemy.com/user/ehsan-shekari-2/)
 - 📺 **YouTube (Coding with Ehsan)**: [Code with Ehsan](https://www.youtube.com/@EhsanShekari-en) (English, recently started)  
 
 ---
