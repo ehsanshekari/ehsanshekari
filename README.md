@@ -4,7 +4,7 @@
 
 ## 🛠️ Skills & Expertise
 - 💻 **Programming Languages**: JavaScript, TypeScript  
-- 🌐 **Frontend**: HTML, CSS, React, Next.js 
+- 🌐 **Frontend**: HTML, CSS, React, Next.js  
 - ⚙️ **Backend**: Node.js, Express.js, NestJS, GraphQL  
 - 🗄️ **Databases**: PostgreSQL, MongoDB  
 - ☁️ **DevOps**: Docker, Kubernetes, CI/CD, AWS  
@@ -26,7 +26,7 @@
 - **BSc. Computer Engineering**  
   Ferdowsi University, Mashhad, Iran | 2005 – 2010  
 
-📫 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/ehsan-shekari/)
+📫 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/ehsan-shekari/) | [Telegram](https://t.me/shekariehsan)
 
 ---
 
@@ -36,7 +36,7 @@ I enjoy sharing my knowledge of programming and web development through various 
 - 🎥 **Aparat**: [Code With Ehsan](https://www.aparat.com/ehsanshekari) (Farsi)  
 - 📺 **YouTube (Code Tutor)**: [Code With Ehsan](https://www.youtube.com/@EhsanShekari-ir) (Farsi)  
 - 🎓 **Danup**: [Ehsan Shekari Academy](https://danup.ir/academy/e-shekari/) (Farsi)  
-- 📚 **Udemy**: [Ehsan Shekari](https://www.udemy.com/user/ehsan-shekari-2/)
+- 📚 **Udemy**: [Ehsan Shekari](https://www.udemy.com/user/ehsan-shekari-2/)  
 - 📺 **YouTube (Coding with Ehsan)**: [Code with Ehsan](https://www.youtube.com/@EhsanShekari-en) (English, recently started)  
 
 ---
