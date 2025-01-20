@@ -33,8 +33,8 @@
 ## 🎓 Teaching
 I enjoy sharing my knowledge of programming and web development through various platforms. Most of my channels are in Farsi, except for **Coding with Ehsan**, which is in English and recently started:
 
-- 🎥 **Aparat**: [Code Tutor](https://www.aparat.com/code_tutor) (Farsi)  
-- 📺 **YouTube (Code Tutor)**: [Code Tutor](https://www.youtube.com/@CodeTutorIR) (Farsi)  
+- 🎥 **Aparat**: [Code With Ehsan](https://www.aparat.com/ehsanshekari)) (Farsi)  
+- 📺 **YouTube (Code Tutor)**: [Code With Ehsan](https://www.youtube.com/@EhsanShekari-ir)) (Farsi)  
 - 🎓 **Danup**: [Ehsan Shekari Academy](https://danup.ir/academy/e-shekari/) (Farsi)  
 - 📚 **Udemy**: [Ehsan Shekari](https://www.udemy.com/user/ehsan-shekari-2/) (Farsi)  
 - 📺 **YouTube (Coding with Ehsan)**: [Coding with Ehsan](https://www.youtube.com/@CodingWithEhsan) (English, recently started)  
