@@ -4,7 +4,7 @@ A **Senior Software Engineer** with extensive experience in full-stack developme
 
 ## 🛠️ Skills & Expertise
 - 💻 **Programming Languages**: JavaScript, TypeScript  
-- 🌐 **Frontend**: HTML, CSS, React, Next.js  
+- 🌐 **Frontend**: HTML, CSS, React, Next.js, Redux
 - ⚙️ **Backend**: Node.js, Express.js, NestJS, GraphQL  
 - 🗄️ **Databases**: PostgreSQL, MongoDB  
 - ☁️ **DevOps**: Docker, Kubernetes, Terraform, CI/CD, AWS  
