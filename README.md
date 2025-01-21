@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Ehsan
-
-**Senior Software Engineer** with extensive experience in full-stack development, particularly with JavaScript tools such as Node.js, TypeScript, and React. Experienced in cloud computing (AWS), containerization (Docker, Kubernetes), and infrastructure (Terraform). Excellent at team leadership, developing scalable solutions, and boosting performance. Data mining, machine learning, and algorithms are all topics that I am familiar with and intend to learn more about. Experienced in teaching and mentoring, with courses designed to assist others improve their software development skills.   
+<p style="text-align: justify;">
+**Senior Software Engineer** with extensive experience in full-stack development, particularly with JavaScript tools such as Node.js, TypeScript, and React. Experienced in cloud computing (AWS), containerization (Docker, Kubernetes), and infrastructure (Terraform). Excellent at team leadership, developing scalable solutions, and boosting performance. Data mining, machine learning, and algorithms are all topics that I am familiar with and intend to learn more about. Experienced in teaching and mentoring, with courses designed to assist others improve their software development skills. 
+</p>  
 📫 **Let's Connect**: e.shekari@gmail.com | [LinkedIn](https://www.linkedin.com/in/ehsan-shekari/) | [Telegram](https://t.me/shekariehsan) 
 
 ## 🛠️ Skills & Expertise
