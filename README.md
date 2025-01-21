@@ -14,7 +14,7 @@ A **Senior Software Engineer** with extensive experience in full-stack developme
 - **ALPHASENSE** - Helsinki, Finland  
   Senior Software Engineer (Jun 2021 – Nov 2024)  
 - **Perficient (Talos Digital)** - Columbia  
-  Lead Backend Developer (Nov 2020 - May 2021)  
+  Senior Backend Developer (Nov 2020 - May 2021)  
 - **Fanap** – Mashhad, Iran  
   Team Lead & Full Stack JavaScript Developer (May 2019 - Oct 2020)  
 - **Part** – Mashhad, Iran  
