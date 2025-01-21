@@ -37,7 +37,7 @@
   *Publisher*: 1st international conference on new research achievements in electrical and computer engineering, Amirkabir University  
   *Date*: 2016     
 
-📫 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/ehsan-shekari/) | [Telegram](https://t.me/shekariehsan) | **Email**: e.shekari@gmail.com
+📫 **Let's Connect**: **Email**: e.shekari@gmail.com | [LinkedIn](https://www.linkedin.com/in/ehsan-shekari/) | [Telegram](https://t.me/shekariehsan) 
 
 ---
 
