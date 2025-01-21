@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ehsan
 
-🎯 **Senior Software Engineer** with over 10 years of experience in web development.
+🎯 **Senior Software Engineer** with over 10 years of experience in web development.  
 📫 **Let's Connect**: e.shekari@gmail.com | [LinkedIn](https://www.linkedin.com/in/ehsan-shekari/) | [Telegram](https://t.me/shekariehsan) 
 
 ## 🛠️ Skills & Expertise
