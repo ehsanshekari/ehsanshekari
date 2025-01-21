@@ -32,10 +32,10 @@
   *Date*: 2019  
 - **NGTSOM: A Novel Data Clustering Algorithm based on Game Theoretic and Self-organizing Map**  [Read more](http://miscj.aut.ac.ir/article_850.html)  
   *Publisher*: Amirkabir International Journal of Modeling, Identification, Simulation and Control (AIJ-MISC)  
-  *Date*: 2016  
-- **A New Game Theory Based Approach for Self-Organizing Map Networks**  [Read more](https://www.civilica.com/Paper-CBCONF01-CBCONF01_1007=A-New-Game-Theory-Based-Approach-for-Self-Organizing-Map-Networks.html)
+  *Date*: 2016
+- **A New Game Theory Based Approach for Self-Organizing Map Networks**  [Read more](https://www.civilica.com/Paper-CBCONF01-CBCONF01_1007=A-New-Game-Theory-Based-Approach-for-Self-Organizing-Map-Networks.html))  
   *Publisher*: 1st international conference on new research achievements in electrical and computer engineering, Amirkabir University  
-  *Date*: 2016   
+  *Date*: 2016     
 
 📫 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/ehsan-shekari/) | [Telegram](https://t.me/shekariehsan) | **Email**: e.shekari@gmail.com
 
