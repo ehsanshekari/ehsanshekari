@@ -26,7 +26,7 @@
 - **BSc. Computer Engineering**  
   Ferdowsi University, Mashhad, Iran | 2005 – 2010  
 
-### Papers
+## 📄 Papers
 - **A Combination Approach Based on a Novel Data Clustering Method and Bayesian Recurrent Neural Network for Day-ahead Price Forecasting of Electricity Markets**  
   *Publisher*: Electric Power Systems Research  
   *Date*: 2019  
