@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Ehsan
 
 🎯 **Senior Software Engineer** with over 10 years of experience in web development.
+📫 **Let's Connect**: e.shekari@gmail.com | [LinkedIn](https://www.linkedin.com/in/ehsan-shekari/) | [Telegram](https://t.me/shekariehsan) 
 
 ## 🛠️ Skills & Expertise
 - 💻 **Programming Languages**: JavaScript, TypeScript  
@@ -35,10 +36,8 @@
   *Date*: 2016
 - **A New Game Theory Based Approach for Self-Organizing Map Networks**  [Read more](https://www.civilica.com/Paper-CBCONF01-CBCONF01_1007=A-New-Game-Theory-Based-Approach-for-Self-Organizing-Map-Networks.html)  
   *Publisher*: 1st international conference on new research achievements in electrical and computer engineering, Amirkabir University  
-  *Date*: 2016     
-
-📫 **Let's Connect**: e.shekari@gmail.com | [LinkedIn](https://www.linkedin.com/in/ehsan-shekari/) | [Telegram](https://t.me/shekariehsan) 
-
+  *Date*: 2016
+  
 ---
 
 ## 🎓 Teaching
