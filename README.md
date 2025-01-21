@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ehsan
 
-🎯 **Senior Software Developer** with over 10 years of experience in web development.
+🎯 **Senior Software Engineer** with over 10 years of experience in web development.
 
 ## 🛠️ Skills & Expertise
 - 💻 **Programming Languages**: JavaScript, TypeScript  
