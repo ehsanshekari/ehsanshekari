@@ -26,7 +26,21 @@
 - **BSc. Computer Engineering**  
   Ferdowsi University, Mashhad, Iran | 2005 – 2010  
 
-📫 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/ehsan-shekari/) | [Telegram](https://t.me/shekariehsan)
+### Papers
+- **A Combination Approach Based on a Novel Data Clustering Method and Bayesian Recurrent Neural Network for Day-ahead Price Forecasting of Electricity Markets**  
+  *Publisher*: Electric Power Systems Research  
+  *Date*: 2019  
+  [Read more](https://www.sciencedirect.com/science/article/abs/pii/S0378779618303961)  
+- **NGTSOM: A Novel Data Clustering Algorithm based on Game Theoretic and Self-organizing Map**  
+  *Publisher*: Amirkabir International Journal of Modeling, Identification, Simulation and Control (AIJ-MISC)  
+  *Date*: 2016  
+  [Read more](http://miscj.aut.ac.ir/article_850.html)  
+- **A New Game Theory Based Approach for Self-Organizing Map Networks**  
+  *Publisher*: 1st international conference on new research achievements in electrical and computer engineering, Amirkabir University  
+  *Date*: 2016  
+  [Read more](https://www.civilica.com/Paper-CBCONF01-CBCONF01_1007=A-New-Game-Theory-Based-Approach-for-Self-Organizing-Map-Networks.html)  
+
+📫 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/ehsan-shekari/) | [Telegram](https://t.me/shekariehsan) | **Email**: e.shekari@gmail.com
 
 ---
 
@@ -48,4 +62,4 @@ When I'm not coding, I dive into the nostalgic world of retro games and share my
 - 🎥 **TikTok**: [Forgotten Unlocked](https://www.tiktok.com/@forgotten.unlocked) (Music)  
 - 📺 **YouTube**: [Forgotten Unlocked](https://www.youtube.com/@ForgottenUnlocked) (Retro games)  
 - 🎮 **Rumble**: [Forgotten Unlocked](https://rumble.com/c/c-6778939) (Retro games)  
-- 🔗 **Telegram**: [Forgotten Unlocked](https://t.me/forgotten_unlocked) (Retro games)  
+- 🔗 **Telegram**: [Forgotten Unlocked](https://t.me/forgotten_unlocked) (Retro games)
