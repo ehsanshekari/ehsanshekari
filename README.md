@@ -50,8 +50,8 @@ I enjoy sharing my knowledge of programming and web development through various 
 
 ---
 
-## 🎵 Music & Retro Gaming Enthusiast
+## 🎵 Music & Retro Gaming Enthusiast 🕹️
 When I'm not coding, I explore retro games and share my passion for music. Connect with me:
 
-- 📸 [Instagram](https://www.instagram.com/forgotten.unlocked) | 🎥 [TikTok](https://www.tiktok.com/@forgotten.unlocked) (Music)  
-- 📺 [YouTube](https://www.youtube.com/@ForgottenUnlocked) | 🎮 [Rumble](https://rumble.com/c/c-6778939) | 🔗 [Telegram](https://t.me/forgotten_unlocked) (Retro games)
+- 🎵 [Instagram](https://www.instagram.com/forgotten.unlocked) | 🎵 [TikTok](https://www.tiktok.com/@forgotten.unlocked) (Music)  
+- 🕹️ [YouTube](https://www.youtube.com/@ForgottenUnlocked) | 🕹️ [Rumble](https://rumble.com/c/c-6778939) | 🕹️ [Telegram](https://t.me/forgotten_unlocked) (Retro games)
