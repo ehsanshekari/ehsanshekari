@@ -63,8 +63,10 @@ I enjoy sharing my knowledge of programming and web development through various 
   [Udemy](https://www.udemy.com/course/sending-requests-in-react/) | [Danup](https://danup.ir/courses/sending-requests-in-react/)  
 
 - **MATLAB Essential Training** (2020, 4:16)  
-  [Danup](https://danup.ir/courses/matlab-primary-tutorial/)  
-
+  [Danup](https://danup.ir/courses/matlab-primary-tutorial/)
+  
+- **WordPress Essential Training** (2020, 3:05)  
+  [Danup](https://danup.ir/courses/how-to-make-a-wordpress-website/)  
 ---
 
 ## 🎵 Music & Retro Gaming Enthusiast 🕹️
