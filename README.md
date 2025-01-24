@@ -41,29 +41,25 @@ A **Senior Software Engineer** with extensive experience in full-stack developme
 
 ## 🎓 Teaching
 I enjoy sharing my knowledge of programming and web development through various platforms. Most of my channels are in Farsi, except the last one, which is in English and recently started:
-- 🎥 **Channels**: [Aparat](https://www.aparat.com/ehsanshekari) (Farsi), 📺 [YouTube](https://www.youtube.com/@EhsanShekari-ir) (Farsi), 📺 [YouTube](https://www.youtube.com/@EhsanShekari-en) (English, recently started)  
+- 🎥 **Channels**: [Aparat](https://www.aparat.com/ehsanshekari) (Farsi), 🎥 [YouTube](https://www.youtube.com/@EhsanShekari-ir) (Farsi), 🎥 [YouTube](https://www.youtube.com/@EhsanShekari-en) (English, recently started)  
 - 📚 **Udemy**: [Udemy](https://www.udemy.com/user/ehsan-shekari-2/), 📚 **Danup**: [Danup](https://danup.ir/academy/e-shekari/) (Farsi)   
 
 
 ### 🎓 Courses  
 
-- **Programming Foundations** (2020, 4:22)  
-  [Udemy](https://www.udemy.com/course/programming-foundations/) | [Danup](https://danup.ir/courses/programming-principles/)  
+- **Programming Foundations** (2020, 4:22) [Udemy](https://www.udemy.com/course/programming-foundations/) | [Danup](https://danup.ir/courses/programming-principles/)  
 
-- **JavaScript Essential Training** (2020, 8:45)  
-  [Danup](https://danup.ir/courses/javascript-essential-training/)  
+- **JavaScript Essential Training** (2020, 8:45) [Danup](https://danup.ir/courses/javascript-essential-training/)  
 
-- **Object-Oriented Programming in JavaScript** (2020, 1:06)  
-  [Danup](https://danup.ir/courses/oop-in-js/)  
+- **Object-Oriented Programming in JavaScript** (2020, 1:06) [Danup](https://danup.ir/courses/oop-in-js/)  
 
-- **Sending HTTP Requests in React** (2020, 2:17)  
-  [Udemy](https://www.udemy.com/course/sending-requests-in-react/) | [Danup](https://danup.ir/courses/sending-requests-in-react/)  
+- **Sending HTTP Requests in React** (2020, 2:17) [Udemy](https://www.udemy.com/course/sending-requests-in-react/) | [Danup](https://danup.ir/courses/sending-requests-in-react/)  
 
 - **MATLAB Essential Training** (2020, 4:16)  
   [Danup](https://danup.ir/courses/matlab-primary-tutorial/)
   
-- **WordPress Essential Training** (2020, 3:05)  
-  [Danup](https://danup.ir/courses/how-to-make-a-wordpress-website/)  
+- **WordPress Essential Training** (2020, 3:05) [Danup](https://danup.ir/courses/how-to-make-a-wordpress-website/)
+
 ---
 
 ## 🎵 Music & Retro Gaming Enthusiast 🕹️
