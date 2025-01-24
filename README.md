@@ -46,7 +46,24 @@ I enjoy sharing my knowledge of programming and web development through various 
 - 📺 **YouTube**: [Code With Ehsan](https://www.youtube.com/@EhsanShekari-ir) (Farsi)  
 - 🎓 **Danup**: [Ehsan Shekari Academy](https://danup.ir/academy/e-shekari/) (Farsi)  
 - 📚 **Udemy**: [Ehsan Shekari](https://www.udemy.com/user/ehsan-shekari-2/)  
-- 📺 **YouTube**: [Code with Ehsan](https://www.youtube.com/@EhsanShekari-en) (English, recently started)  
+- 📺 **YouTube**: [Code with Ehsan](https://www.youtube.com/@EhsanShekari-en) (English, recently started)
+
+### 🎓 Courses  
+
+- **Programming Foundations** (2020, 4:22)  
+  [Udemy](https://www.udemy.com/course/programming-foundations/) | [Danup](https://danup.ir/courses/programming-principles/)  
+
+- **JavaScript Essential Training** (2020, 8:45)  
+  [Danup](https://danup.ir/courses/javascript-essential-training/)  
+
+- **Object-Oriented Programming in JavaScript** (2020, 1:06)  
+  [Danup](https://danup.ir/courses/oop-in-js/)  
+
+- **Sending HTTP Requests in React** (2020, 2:17)  
+  [Udemy](https://www.udemy.com/course/sending-requests-in-react/) | [Danup](https://danup.ir/courses/sending-requests-in-react/)  
+
+- **MATLAB Essential Training** (2020, 4:16)  
+  [Danup](https://danup.ir/courses/matlab-primary-tutorial/)  
 
 ---
 
