@@ -49,7 +49,7 @@ I enjoy sharing my knowledge of programming and web development through various 
 )
 - **MATLAB Essential Training** (Farsi, 2020, 4:16) [Danup](https://danup.ir/courses/matlab-primary-tutorial/)
 - **WordPress Essential Training** (Farsi, 2020, 3:05) [Danup](https://danup.ir/courses/how-to-make-a-wordpress-website/)
-- **Introduction to Visual Studio Code** (Farsi 2020, 1:15) [Danup](https://danup.ir/courses/visual-studio-code/) | [Aparat](https://www.aparat.com/v/3kH6A)   
+- **Introduction to Visual Studio Code** (Farsi, 2020, 1:15) [Danup](https://danup.ir/courses/visual-studio-code/) | [Aparat](https://www.aparat.com/v/3kH6A)   
 
  ### 🎓 Crash Courses and Playlists  
 - **TypeScript Crash Course** (Farsi, 2022, 1:00) [Aparat](https://www.aparat.com/v/i357o9h) | [Danup](https://danup.ir/courses/typescript-for-beginners)  
