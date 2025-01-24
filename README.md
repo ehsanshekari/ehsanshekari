@@ -55,7 +55,11 @@ I enjoy sharing my knowledge of programming and web development through various 
 - **Introduction to Visual Studio Code** (Farsi 2020, 1:15) [Danup](https://danup.ir/courses/visual-studio-code/) | [Aparat](https://www.aparat.com/v/3kH6A)   
 
  ### 🎓 Crash Courses and Playlists  
-
+- **TypeScript Crash Course** (Farsi, 2022, 1:00) [Aparat](https://www.aparat.com/v/i357o9h)  
+- **React & TypeScript** (Farsi, 2022, 0:30) [Aparat](https://www.aparat.com/v/o579uhn)  
+- **Json Server Crash Course** (Farsi, 2022, 1:00) [Aparat](https://www.aparat.com/v/NpRa9)  
+- **TypeScript Crash Course** (Farsi, 2022, 1:00) [Aparat](https://www.aparat.com/v/i357o9h)  
+- **TypeScript Crash Course** (Farsi, 2022, 1:00) [Aparat](https://www.aparat.com/v/i357o9h)  
 
 ---
 
