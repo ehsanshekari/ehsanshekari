@@ -53,10 +53,9 @@ I enjoy sharing my knowledge of programming and web development through various 
 
 - **Object-Oriented Programming in JavaScript** (2020, 1:06) [Danup](https://danup.ir/courses/oop-in-js/)  
 
-- **Sending HTTP Requests in React** (2020, 2:17) [Udemy](https://www.udemy.com/course/sending-requests-in-react/) | [Danup](https://danup.ir/courses/sending-requests-in-react/)  
+- **Sending HTTP Requests in React** (2023, 2:17) [Udemy](https://www.udemy.com/course/sending-requests-in-react/) | [Danup](https://danup.ir/courses/sending-requests-in-react/)  
 
-- **MATLAB Essential Training** (2020, 4:16)  
-  [Danup](https://danup.ir/courses/matlab-primary-tutorial/)
+- **MATLAB Essential Training** (2020, 4:16) [Danup](https://danup.ir/courses/matlab-primary-tutorial/)
   
 - **WordPress Essential Training** (2020, 3:05) [Danup](https://danup.ir/courses/how-to-make-a-wordpress-website/)
 
