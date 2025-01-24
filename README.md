@@ -60,7 +60,7 @@ I enjoy sharing my knowledge of programming and web development through various 
 - **Json Server Crash Course** (Farsi, 2022, 0:20) [Aparat](https://www.aparat.com/v/NpRa9)  
 - **Introduction to Node.js** (Farsi, 2020, 4:50) [Aparat Part 1](https://www.aparat.com/v/i80lixr), [Aparat Part 2](https://www.aparat.com/v/xwWpv)     
 - **HTML Crash Course** (Farsi, 2024, 1:00) [Aparat](https://www.aparat.com/v/i357o9h)  
-- **Linux Course** (Farsi, 2020, 1:00) [Aparat](https://www.aparat.com/v/I0Ssx)  
+- **My Linux Playlist** (Farsi, 2020, 1:00) [Aparat](https://www.aparat.com/v/I0Ssx)  
 
 ---
 
