@@ -55,9 +55,9 @@ I enjoy sharing my knowledge of programming and web development through various 
 - **Introduction to Visual Studio Code** (Farsi 2020, 1:15) [Danup](https://danup.ir/courses/visual-studio-code/) | [Aparat](https://www.aparat.com/v/3kH6A)   
 
  ### 🎓 Crash Courses and Playlists  
-- **TypeScript Crash Course** (Farsi, 2022, 1:00) [Aparat](https://www.aparat.com/v/i357o9h)  
-- **React & TypeScript** (Farsi, 2022, 0:30) [Aparat](https://www.aparat.com/v/o579uhn)  
-- **Json Server Crash Course** (Farsi, 2022, 0:20) [Aparat](https://www.aparat.com/v/NpRa9)  
+- **TypeScript Crash Course** (Farsi, 2022, 1:00) [Aparat](https://www.aparat.com/v/i357o9h) | [Danup](https://danup.ir/courses/typescript-for-beginners)  
+- **React & TypeScript** (Farsi, 2022, 0:30) [Aparat](https://www.aparat.com/v/o579uhn) | [Danup](https://danup.ir/courses/typescript-for-beginners) 
+- **Json Server Crash Course** (Farsi, 2022, 0:20) [Aparat](https://www.aparat.com/v/NpRa9) | [Danup](https://danup.ir/courses/json-server/)
 - **Introduction to Node.js** (Farsi, 2020, 4:50) [Aparat Part 1](https://www.aparat.com/v/i80lixr), [Aparat Part 2](https://www.aparat.com/v/xwWpv)     
 - **HTML Crash Course** (Farsi, 2024, 1:00) [Aparat](https://www.aparat.com/v/i357o9h)  
 - **My Linux Playlist** (Farsi, 2020, 1:00) [Aparat](https://www.aparat.com/v/I0Ssx)  
