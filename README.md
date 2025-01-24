@@ -40,7 +40,7 @@ A **Senior Software Engineer** with extensive experience in full-stack developme
 ---
 
 ## 🎓 Teaching
-I enjoy sharing my knowledge of programming and web development through various platforms. Most of my channels are in Farsi, except for **Code with Ehsan**, which is in English and recently started:
+I enjoy sharing my knowledge of programming and web development through various platforms. Most of my channels are in Farsi, except the last one, which is in English and recently started:
 
 - 🎥 **Aparat**: [Code With Ehsan](https://www.aparat.com/ehsanshekari) (Farsi)  
 - 📺 **YouTube**: [Code With Ehsan](https://www.youtube.com/@EhsanShekari-ir) (Farsi)  
