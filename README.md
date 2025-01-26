@@ -43,11 +43,10 @@ I enjoy sharing my knowledge of programming and web development through various 
 
 ### 🎓 Courses  
 - **Programming Foundations** (Farsi, 2020, 4:22) [Udemy](https://www.udemy.com/course/programming-foundations/) | [Danup](https://danup.ir/courses/programming-principles/)  
-- **JavaScript Essential Training** (Farsi, 2020, 8:45) [Danup](https://danup.ir/courses/javascript-essential-training/)  
-- **Object-Oriented Programming in JavaScript** (Farsi, 2020, 1:06) [Danup](https://danup.ir/courses/oop-in-js/)  
-- **Sending HTTP Requests in React** (Farsi, 2022, 2:17) [Udemy](https://www.udemy.com/course/sending-requests-in-react/) | [Danup](https://danup.ir/courses/sending-requests-in-react/) | [YouTube](https://www.youtube.com/watch?v=WLCH1t0xKR0&list=PLJgS5tlEopOL2pXn92TbDiT1XdWvi-0gZ) | [Aparat](https://www.youtube.com/watch?v=WLCH1t0xKR0&list=PLJgS5tlEopOL2pXn92TbDiT1XdWvi-0gZ
-)
-- **MATLAB Essential Training** (Farsi, 2020, 4:16) [Danup](https://danup.ir/courses/matlab-primary-tutorial/)
+- **JavaScript Essential Training** (Farsi, 2020, 8:45) [Danup](https://danup.ir/courses/javascript-essential-training/)  [Source Code](https://github.com/ehsanshekari/javascript-essential-training)
+- **Object-Oriented Programming in JavaScript** (Farsi, 2020, 1:06) [Danup](https://danup.ir/courses/oop-in-js/)  [Source Code](https://github.com/ehsanshekari/OOP-JS-Course)
+- **Sending HTTP Requests in React** (Farsi, 2022, 2:17) [Udemy](https://www.udemy.com/course/sending-requests-in-react/) | [Danup](https://danup.ir/courses/sending-requests-in-react/) | [YouTube](https://www.youtube.com/watch?v=WLCH1t0xKR0&list=PLJgS5tlEopOL2pXn92TbDiT1XdWvi-0gZ) | [Aparat](https://www.youtube.com/watch?v=WLCH1t0xKR0&list=PLJgS5tlEopOL2pXn92TbDiT1XdWvi-0gZ) [Source Code](https://github.com/ehsanshekari/quotes-example)  
+- **MATLAB Essential Training** (Farsi, 2020, 4:16) [Danup](https://danup.ir/courses/matlab-primary-tutorial/) [Source Code](https://github.com/ehsanshekari/matlab-essential-training)
 - **WordPress Essential Training** (Farsi, 2020, 3:05) [Danup](https://danup.ir/courses/how-to-make-a-wordpress-website/)
 - **Introduction to Visual Studio Code** (Farsi, 2020, 1:15) [Danup](https://danup.ir/courses/visual-studio-code/) | [Aparat](https://www.aparat.com/v/3kH6A)   
 
