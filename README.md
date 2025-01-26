@@ -42,7 +42,7 @@ I enjoy sharing my knowledge of programming and web development through various 
 - 📚 **Academies**: [Udemy](https://www.udemy.com/user/ehsan-shekari-2/), 📚 [Danup](https://danup.ir/academy/e-shekari/) (Farsi)   
 
 ### 🎓 Courses  
-- **Programming Foundations** (Farsi, 2020, 4:22) [Udemy](https://www.udemy.com/course/programming-foundations/) | [Danup](https://danup.ir/courses/programming-principles/)  
+- **Programming Foundations** (Farsi, 2020, 4:22) [Udemy](https://www.udemy.com/course/programming-foundations/) | [Danup](https://danup.ir/courses/programming-principles/) | [Source Code](https://github.com/ehsanshekari/programming-foundations-course)   
 - **JavaScript Essential Training** (Farsi, 2020, 8:45) [Danup](https://danup.ir/courses/javascript-essential-training/) | [Source Code](https://github.com/ehsanshekari/javascript-essential-training)
 - **Object-Oriented Programming in JavaScript** (Farsi, 2020, 1:06) [Danup](https://danup.ir/courses/oop-in-js/) | [Source Code](https://github.com/ehsanshekari/OOP-JS-Course)
 - **Sending HTTP Requests in React** (Farsi, 2022, 2:17) [Udemy](https://www.udemy.com/course/sending-requests-in-react/) | [Danup](https://danup.ir/courses/sending-requests-in-react/) | [YouTube](https://www.youtube.com/watch?v=WLCH1t0xKR0&list=PLJgS5tlEopOL2pXn92TbDiT1XdWvi-0gZ) | [Aparat](https://www.youtube.com/watch?v=WLCH1t0xKR0&list=PLJgS5tlEopOL2pXn92TbDiT1XdWvi-0gZ) | [Source Code](https://github.com/ehsanshekari/quotes-example)  
@@ -55,7 +55,7 @@ I enjoy sharing my knowledge of programming and web development through various 
 - **React & TypeScript** (Farsi, 2022, 0:30) [Aparat](https://www.aparat.com/v/o579uhn) | [Danup](https://danup.ir/courses/typescript-for-beginners) 
 - **Json Server Crash Course** (Farsi, 2022, 0:20) [Aparat](https://www.aparat.com/v/NpRa9) | [Danup](https://danup.ir/courses/json-server/)
 - **Introduction to Node.js** (Farsi, 2020, 4:50) [Aparat Part 1](https://www.aparat.com/v/i80lixr), [Aparat Part 2](https://www.aparat.com/v/xwWpv)     
-- **HTML Crash Course** (Farsi, 2024, 1:00) [Aparat](https://www.aparat.com/v/i357o9h)  
+- **HTML Crash Course** (Farsi, 2024, 1:00) [Aparat](https://www.aparat.com/v/i357o9h) | [Source Code](https://github.com/ehsanshekari/html-crash-course)   
 - **My Linux Playlist** (Farsi, 2020, 1:00) [Aparat](https://www.aparat.com/v/I0Ssx)  
 
 ---
