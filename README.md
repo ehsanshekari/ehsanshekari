@@ -42,6 +42,7 @@ I enjoy sharing my knowledge of programming and web development through various 
 - 📚 **Academies**: [Udemy](https://www.udemy.com/user/ehsan-shekari-2/), 📚 [Danup](https://danup.ir/academy/e-shekari/) (Farsi)   
 
 ### 🎓 Courses  
+- **React and Redux Complete Course** (Farsi, Coming soon, 8 hours is already recorded!)  
 - **Programming Foundations** (Farsi, 2020, 4:22) [Udemy](https://www.udemy.com/course/programming-foundations/) | [Danup](https://danup.ir/courses/programming-principles/) | [Source Code](https://github.com/ehsanshekari/programming-foundations-course)   
 - **JavaScript Essential Training** (Farsi, 2020, 8:45) [Danup](https://danup.ir/courses/javascript-essential-training/) | [Source Code](https://github.com/ehsanshekari/javascript-essential-training)
 - **Object-Oriented Programming in JavaScript** (Farsi, 2020, 1:06) [Danup](https://danup.ir/courses/oop-in-js/) | [Source Code](https://github.com/ehsanshekari/OOP-JS-Course)
