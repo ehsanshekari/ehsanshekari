@@ -24,7 +24,10 @@ A **Senior Software Engineer** with extensive experience in full-stack developme
 - **MSc. Decision Science & Knowledge Engineering**  
   Khazarami University, Tehran, Iran | 2011 – 2013  
 - **BSc. Computer Engineering**  
-  Ferdowsi University, Mashhad, Iran | 2005 – 2010  
+  Ferdowsi University, Mashhad, Iran | 2005 – 2010
+
+## 🎖️ Certificates
+- **AWS Certified Solutions Architect – Associate**
 
 ## 📄 Papers
 - **A Combination Approach Based on a Novel Data Clustering Method and Bayesian Recurrent Neural Network for Day-ahead Price Forecasting of Electricity Markets**  [Read more](https://www.sciencedirect.com/science/article/abs/pii/S0378779618303961)  
