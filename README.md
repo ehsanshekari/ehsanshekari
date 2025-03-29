@@ -7,7 +7,7 @@ A **Senior Software Engineer** with extensive experience in full-stack developme
 - 🌐 **Frontend**: HTML, CSS, React, Next.js, Redux, GraphQL
 - ⚙️ **Backend**: Node.js, Express.js, NestJS, GraphQL  
 - 🗄️ **Databases**: PostgreSQL, MongoDB  
-- ☁️ **DevOps**: Docker, Kubernetes, Terraform, CI/CD, AWS  
+- ☁️ **DevOps & Cloud**: AWS, CI/CD, Docker, Kubernetes, Terraform
 - 📦 **Tools**: Git  
 
 ## 💼 Work Experience
