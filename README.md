@@ -51,7 +51,7 @@ I enjoy sharing my knowledge of programming and web development through various 
 - **Sending HTTP Requests in React** (Farsi, 2022, 2:17) [YouTube](https://www.youtube.com/playlist?list=PLJgS5tlEopOL2pXn92TbDiT1XdWvi-0gZ) | [Aparat](https://www.aparat.com/v/lme88e8) | [Udemy](https://www.udemy.com/course/sending-requests-in-react/) | [Danup](https://danup.ir/courses/sending-requests-in-react/) | [Source Code](https://github.com/ehsanshekari/quotes-example)  
 - **MATLAB Essential Training** (Farsi, 2020, 4:16) [YouTube](https://www.youtube.com/playlist?list=PLJgS5tlEopOKZLCukZ47DXOLU7nMPK_nq) | [Danup](https://danup.ir/courses/matlab-primary-tutorial/) | [Source Code](https://github.com/ehsanshekari/matlab-essential-training)
 - **WordPress Essential Training** (Farsi, 2020, 3:05) [YouTube](https://www.youtube.com/playlist?list=PLJgS5tlEopOLH5dc-NGx527YJnzLcKLO_) | [Danup](https://danup.ir/courses/how-to-make-a-wordpress-website/)
-- **Introduction to Visual Studio Code** (Farsi, 2020, 1:15) [Danup](https://danup.ir/courses/visual-studio-code/) | [Aparat](https://www.aparat.com/v/3kH6A)   
+- **Introduction to Visual Studio Code** (Farsi, 2020, 1:15) [YouTube](https://www.youtube.com/playlist?list=PLJgS5tlEopOLBEtSzmLydEcq6AbtyHmkX) | [Aparat](https://www.aparat.com/v/3kH6A) | [Danup](https://danup.ir/courses/visual-studio-code/)
 
  ### 🎓 Crash Courses and Playlists  
 - **TypeScript Crash Course** (Farsi, 2022, 1:00) [Aparat](https://www.aparat.com/v/i357o9h) | [Danup](https://danup.ir/courses/typescript-for-beginners)  
