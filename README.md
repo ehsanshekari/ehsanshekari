@@ -40,8 +40,8 @@ A **Senior Software Engineer** with extensive experience in full-stack developme
 ---
 
 ## 🎓 Teaching
-I enjoy sharing my knowledge of programming and web development through various platforms. Most of my channels are in Farsi, except the last one, which is in English and recently started:
-- 🎥 **Channels**: [Aparat](https://www.aparat.com/ehsanshekari) (Farsi), 🎥 [YouTube](https://www.youtube.com/@EhsanShekari-fa) (Farsi), 🎥 [YouTube](https://www.youtube.com/@EhsanShekari-en) (English, recently started)  
+I enjoy sharing my knowledge of programming and web development through various platforms.
+- 🎥 **Channels**: [YouTube](https://www.youtube.com/@EhsanShekari-fa) (Farsi), 🎥 [Aparat](https://www.aparat.com/ehsanshekari) (Farsi), 🎥 [YouTube](https://www.youtube.com/@EhsanShekari-en) (English, recently started)  
 - 📚 **Academies**: [Udemy](https://www.udemy.com/user/ehsan-shekari-2/), 📚 [Danup](https://danup.ir/academy/e-shekari/) (Farsi)   
 
 ### 🎓 Courses 
