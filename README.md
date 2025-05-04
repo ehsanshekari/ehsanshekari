@@ -3,7 +3,7 @@ A **Senior Software Engineer** with extensive experience in full-stack developme
 📫 **Let's Connect**: e.shekari@gmail.com | [LinkedIn](https://www.linkedin.com/in/ehsan-shekari/) | [Telegram](https://t.me/shekariehsan) 
 
 ## 🛠️ Skills & Expertise
-- 💻 **Programming Languages**: JavaScript, TypeScript, Python, Java 
+- 💻 **Programming Languages**: JavaScript, TypeScript
 - 🌐 **Frontend**: HTML, CSS, React, Next.js, Redux, GraphQL
 - ⚙️ **Backend**: Node.js, Express.js, NestJS, GraphQL  
 - 🗄️ **Databases**: PostgreSQL, MongoDB  
