@@ -41,7 +41,7 @@ I am a Senior Software Engineer & Architect with extensive experience in full-st
 
 ## 🎓 Teaching
 I enjoy sharing my knowledge of programming and web development through various platforms.
-- 🎥 **Channels**: [YouTube](https://www.youtube.com/@EhsanShekari-fa) (Farsi), 🎥 [Aparat](https://www.aparat.com/ehsanshekari) (Farsi), 🎥 [YouTube](https://www.youtube.com/@EhsanShekari-en) (English, recently started)  
+- 🎥 **Channels**: [YouTube](https://www.youtube.com/@EhsanShekari-fa) (Farsi), 🎥 [Aparat](https://www.aparat.com/ehsanshekari) (Farsi), 
 - 📚 **Academies**: [Udemy](https://www.udemy.com/user/ehsan-shekari-2/), 📚 [Danup](https://danup.ir/academy/e-shekari/) (Farsi)   
 
 ### 🎓 Courses 
