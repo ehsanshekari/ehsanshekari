@@ -41,8 +41,8 @@ I am a Senior Software Engineer & Architect with extensive experience in full-st
 
 ## 🎓 Teaching
 I enjoy sharing my knowledge of programming and web development through various platforms.
-- 🎥 **Channels**: [YouTube](https://www.youtube.com/@EhsanShekari-fa) (Farsi), 🎥 [Aparat](https://www.aparat.com/ehsanshekari) (Farsi), 
-- 📚 **Academies**: [Udemy](https://www.udemy.com/user/ehsan-shekari-2/), 📚 [Danup](https://danup.ir/academy/e-shekari/) (Farsi)   
+- 🎥 **Channels**: [YouTube](https://www.youtube.com/@EhsanShekari-fa) (Farsi), 🎥 [Aparat](https://www.aparat.com/ehsanshekari) (Farsi)   
+- 📚 **Academies**: [Udemy](https://www.udemy.com/user/ehsan-shekari-2/) (English & Farsi), 📚 [Danup](https://danup.ir/academy/e-shekari/) (Farsi)   
 
 ### 🎓 Courses 
 - **AWS, Terraform & GitHub Actions Projects** (English, 2025, 2:48) [Udemy](https://www.udemy.com/course/aws-terraform-github-actions-projects-personal-website/?referralCode=686BF11FB5C307E33A8F) | [Source Code](https://github.com/ehsanshekari/aws-tf-gha-projects-personal-website)
