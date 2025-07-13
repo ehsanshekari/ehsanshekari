@@ -7,7 +7,7 @@ I am a Senior Software Engineer & Architect with extensive experience in full-st
 - 🌐 **Frontend**: HTML, CSS, React, Next.js, Redux, GraphQL
 - ⚙️ **Backend**: Node.js, Express.js, NestJS, GraphQL  
 - 🗄️ **Databases**: PostgreSQL, MongoDB  
-- ☁️ **DevOps & Cloud**: AWS, CI/CD, Docker, Kubernetes, Terraform
+- ☁️ **DevOps & Cloud**: AWS, CI/CD, Docker, Kubernetes, Terraform, AWS CDK
 - 📦 **Tools**: Git  
 
 ## 💼 Work Experience
