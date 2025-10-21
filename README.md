@@ -62,7 +62,7 @@ I enjoy sharing my knowledge of programming and web development through various 
 - **Json Server Crash Course** (Farsi, 2022, 0:20) [YouTube](https://www.youtube.com/watch?v=jtqRr8CXHnU&list=PLJgS5tlEopOIiRPPXq9woSLjl79912-Fw&index=3) | [Aparat](https://www.aparat.com/v/NpRa9) | [Danup](https://danup.ir/courses/json-server/)
 - **Introduction to Node.js** (Farsi, 2020, 4:50) [YouTube Part 1](https://www.youtube.com/watch?v=duz1q7_aE8s&list=PLJgS5tlEopOIiRPPXq9woSLjl79912-Fw&index=6) | [YouTube Part 2](https://www.youtube.com/watch?v=kbZ494j4JrY&list=PLJgS5tlEopOIiRPPXq9woSLjl79912-Fw&index=7) | [Aparat Part 1](https://www.aparat.com/v/i80lixr), [Aparat Part 2](https://www.aparat.com/v/xwWpv)     
 - **HTML Crash Course** (Farsi, 2024, 1:00) [YouTube](https://www.youtube.com/watch?v=o628EHQ1SkY&list=PLJgS5tlEopOIiRPPXq9woSLjl79912-Fw&index=4) | [Aparat](https://www.aparat.com/v/i357o9h) | [Source Code](https://github.com/ehsanshekari/html-crash-course)   
-- **My Linux Playlist** (Farsi, 2020, 1:54) [YouTube](https://www.youtube.com/watch?v=zY5OVIdPuGM&list=PLJgS5tlEopOIiRPPXq9woSLjl79912-Fw&index=8) | [Aparat](https://www.aparat.com/v/I0Ssx)  
+- **Linux Crash Course** (Farsi, 2020, 1:54) [YouTube](https://www.youtube.com/watch?v=zY5OVIdPuGM&list=PLJgS5tlEopOIiRPPXq9woSLjl79912-Fw&index=8) | [Aparat](https://www.aparat.com/v/I0Ssx)  
 
 ---
 
