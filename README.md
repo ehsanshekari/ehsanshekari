@@ -28,6 +28,7 @@ I am a Tech Lead & Solution Architect with extensive experience in full-stack de
 
 ## 🎖️ Certificates
 - **AWS Certified Solutions Architect – Associate**
+- **AWS Certified Developer - Associate**
 
 ## 📄 Papers
 - **A Combination Approach Based on a Novel Data Clustering Method and Bayesian Recurrent Neural Network for Day-ahead Price Forecasting of Electricity Markets**  [Read more](https://www.sciencedirect.com/science/article/abs/pii/S0378779618303961)  
