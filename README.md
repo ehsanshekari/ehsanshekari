@@ -14,7 +14,7 @@ I am a Lead Developer & Solution Architect with extensive experience in full-sta
 - **ALPHASENSE** - Helsinki, Finland  
   Senior Software Engineer (Jun 2021 – Nov 2024)  
 - **Perficient (Talos Digital)** - Columbia, Remote   
-  Senior Backend Developer (Nov 2020 - May 2021)  
+  Lead Backend Developer (Nov 2020 - May 2021)  
 - **Fanap** – Mashhad, Iran  
   Team Lead & Full Stack JavaScript Developer (May 2019 - Oct 2020)  
 - **Part** – Mashhad, Iran  
