@@ -11,6 +11,8 @@ I am a Lead Developer & Solution Architect with extensive experience in full-sta
 - 📦 **Tools**: Git  
 
 ## 💼 Work Experience
+- **Oriola** - Espoo, Finland  
+  Senior Software Engineer (AWS Focused) (May 2025 – Present) 
 - **ALPHASENSE** - Helsinki, Finland  
   Senior Software Engineer (Jun 2021 – Nov 2024)  
 - **Perficient (Talos Digital)** - Columbia, Remote   
