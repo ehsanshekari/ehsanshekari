@@ -12,7 +12,7 @@ I am a Lead Developer, Solution Architect, and AWS Cloud Engineer with extensive
 
 ## 💼 Work Experience
 - **Oriola** - Espoo, Finland  
-  Senior Software Engineer (AWS Focused) (May 2025 – Present) 
+  Senior Cloud-Native Full Stack Developer (AWS) (May 2025 – Present) 
 - **ALPHASENSE** - Helsinki, Finland  
   Senior Software Engineer (Jun 2021 – Nov 2024)  
 - **Perficient (Talos Digital)** - Columbia, Remote   
@@ -20,7 +20,9 @@ I am a Lead Developer, Solution Architect, and AWS Cloud Engineer with extensive
 - **Fanap** – Mashhad, Iran  
   Team Lead & Full Stack JavaScript Developer (May 2019 - Oct 2020)  
 - **Part** – Mashhad, Iran  
-  Full Stack JavaScript Developer (Jun 2016 - Apr 2019)  
+  Full Stack JavaScript Developer (Jun 2016 - Apr 2019)
+- **Freelance** – Mashhad, Iran  
+  PHP and WordPress Developer (Jul 2010 - May 2016)  
 
 ## 🎓 Education
 - **MSc. Decision Science & Knowledge Engineering**  
