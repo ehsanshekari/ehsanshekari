@@ -16,9 +16,9 @@ I am a Lead Developer, Solution Architect, and AWS Cloud Engineer with extensive
 - **ALPHASENSE** - Helsinki, Finland  
   Senior Software Engineer (Jun 2021 – Nov 2024)  
 - **Perficient (Talos Digital)** - Columbia, Remote   
-  Lead Backend Developer (Nov 2020 - May 2021)  
+  Lead Software Engineer (Nov 2020 - May 2021)  
 - **Fanap** – Mashhad, Iran  
-  Team Lead & Full Stack JavaScript Developer (May 2019 - Oct 2020)  
+  Engineering Manager & Technical Lead (May 2019 - Oct 2020)  
 - **Part** – Mashhad, Iran  
   Full Stack JavaScript Developer (Jun 2016 - Apr 2019)
 - **Freelance** – Mashhad, Iran  
