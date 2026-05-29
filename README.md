@@ -47,7 +47,7 @@ I am a Lead Developer, Solution Architect, and AWS Cloud Engineer with extensive
 ## 🎓 Teaching
 I enjoy sharing my knowledge of programming and web development through various platforms.
 - 🎥 **Channels**: [YouTube](https://www.youtube.com/@EhsanShekari-fa) (Farsi), 🎥 [Aparat](https://www.aparat.com/ehsanshekari) (Farsi)   
-- 📚 **Courses**: [Udemy](https://www.udemy.com/user/ehsan-shekari-2/) (English & Farsi), 📚 [Danup](https://danup.ir/academy/e-shekari/) (Farsi)   
+- 📚 **Courses**: [Udemy](https://www.udemy.com/user/ehsan-shekari-2/) (English & Farsi), [Packt](https://www.packtpub.com/authors/ehsan-shekari) (English) 📚 [Danup](https://danup.ir/academy/e-shekari/) (Farsi)   
 
 ### 🎓 Courses 
 - **AWS, Terraform & GitHub Actions Projects** (English, 2025, 3:30) [Udemy](https://www.udemy.com/course/aws-terraform-github-actions-projects-personal-website/?referralCode=686BF11FB5C307E33A8F) | [Packt](https://www.packtpub.com/en-us/product/cloud-automation-projects-2026-aws-terraform-and-github-workflows-9781807306595) | [Source Code](https://github.com/ehsanshekari/aws-tf-gha-projects-personal-website)
