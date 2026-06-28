@@ -3,28 +3,14 @@ I am a Lead Developer, Solution Architect, and AWS Cloud Engineer with extensive
 📫 **Let's Connect**: e.shekari@gmail.com | [LinkedIn](https://www.linkedin.com/in/ehsan-shekari/) | [Telegram](https://t.me/shekariehsan) 
 
 ## 🛠️ Skills & Expertise
-- 💻 **Programming Languages**: JavaScript, TypeScript
-- 🌐 **Frontend**: HTML, CSS, React, Next.js, Redux, GraphQL
-- ⚙️ **Backend**: Node.js, Express.js, NestJS, GraphQL  
-- 🗄️ **Databases**: PostgreSQL, MongoDB  
-- ☁️ **DevOps & Cloud**: AWS, CI/CD, Docker, Kubernetes, Terraform, AWS CDK
-- 📦 **Tools**: Git
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?logo=express)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform)
 ![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 
