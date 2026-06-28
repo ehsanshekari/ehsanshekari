@@ -3,16 +3,16 @@ I am a Lead Developer, Solution Architect, and AWS Cloud Engineer with extensive
 📫 **Let's Connect**: e.shekari@gmail.com | [LinkedIn](https://www.linkedin.com/in/ehsan-shekari/) | [Telegram](https://t.me/shekariehsan) 
 
 ## 🛠️ Skills & Expertise
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
-![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ## 💼 Work Experience
 - **Oriola** - Espoo, Finland  
