@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ehsan
 I am a Lead Developer, Solution Architect, and AWS Cloud Engineer with extensive experience in full-stack development, particularly using JavaScript technologies like Node.js, TypeScript, and React. I am skilled in cloud computing (AWS Certified), containerization (Docker, Kubernetes), and infrastructure as code (Terraform, AWS CDK). I have a proven track record in leading teams, building scalable solutions, and optimizing performance. I hold a master’s degree in Computer Science with a focus on Computational Intelligence, Data Mining, and Machine Learning, giving me a strong foundation in AI concepts. I’m also experienced in teaching and mentoring, with a passion for helping others enhance their software development skills through well-designed courses. [Download my CV](https://drive.google.com/file/d/1WYhNYJNznh_PqDXIYndMMV_Gzqq3OMVO/view?usp=sharing).    
-📫 **Let's Connect**: e.shekari@gmail.com | [LinkedIn](https://www.linkedin.com/in/ehsan-shekari/) | [Telegram](https://t.me/shekariehsan) 
+📫 **Let's Connect**: e.shekari@gmail.com | [LinkedIn](https://www.linkedin.com/in/ehsan-shekari/) | [Telegram](https://t.me/shekariehsan)   
 🎟️ **Free Udemy Course Coupons**: [View Coupons](https://drive.google.com/file/d/11VQtDz679Ki4Sblv56uYk6y5runffUIy/view?usp=sharing)
 
 ## 🛠️ Skills & Expertise
