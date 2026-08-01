@@ -33,6 +33,7 @@ I am a Lead Developer, Solution Architect, and AWS Cloud Engineer with extensive
   Ferdowsi University, Mashhad, Iran | 2005 – 2010
 
 ## 🎖️ Certificates
+- **AWS Certified Machine Learning Engineer – Associate**
 - **AWS Certified Solutions Architect – Associate**
 - **AWS Certified Developer - Associate**
 
